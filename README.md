@@ -6,5 +6,5 @@ Nama Anggota Kelompok :
 
 Kelas : TI 3C 
 
-Link Google colab : [https://colab.research.google.com/drive/1M7Qry31Oygz4117RVcQ56G983VDIfX--#scrollTo=tQOheeT9pI7R](url)
+Link Google colab : [tautan langsung](https://colab.research.google.com/drive/1M7Qry31Oygz4117RVcQ56G983VDIfX--?usp=sharing).
 
